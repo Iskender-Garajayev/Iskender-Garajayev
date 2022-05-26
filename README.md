@@ -9,11 +9,8 @@
 
 
 
-- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Iskender-Garajayev](https://github.com/Iskender-Garajayev)
-
-- 💬 Ask me about **HTML and CSS**
 
 - 📫 How to reach me **garajayev@gmail.com**
 

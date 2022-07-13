@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.techjuice.pk/wp-content/uploads/2019/01/react.jpeg)
 <h1 align="center">Hi 👋, I'm Iskender</h1>
-<h3 align="center">A passionate junior frontend developer from Turkey</h3>
+<h3 align="center">A passionate junior frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.crispmultimedia.in/wp-content/uploads/2019/07/WEB-DEVELOPMENT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iskender-garajayev&label=Profile%20views&color=0e75b6&style=flat" alt="iskender-garajayev" /> </p>

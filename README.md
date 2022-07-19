@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **garajayev@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Iskender-Garajayev/Daily-challange/blob/main/myResume/Iskender%20Garajayev%20Resume.pdf](https://github.com/Iskender-Garajayev/Daily-challange/blob/main/myResume/Iskender%20Garajayev%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

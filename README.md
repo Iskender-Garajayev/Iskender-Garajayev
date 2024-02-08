@@ -29,6 +29,7 @@
 ## My projects
   Project Name       |Libraries and Technologies      |How does my project look   
 :-------------------------|-------------------------|-------------------------
+[Weather App](https://weather-app2222-theta.vercel.app/)| ReactJS, Fetch Api, CSS  |![blog app](https://github.com/Iskender-Garajayev/Front-end-50-projects-on-ReactJS/blob/main/weather-app2/WeatherApp-ezgif.com-video-to-gif-converter.gif)
 [Responsive Website](https://resposiv-app.vercel.app/)| Html, Css (Responsive Website) |![blog app](https://github.com/Iskender-Garajayev/resposiv-app/blob/main/img/resposiv-app.vercel.app.gif)
 
 

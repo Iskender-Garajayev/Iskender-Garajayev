@@ -8,8 +8,6 @@
 
 
 
-- 🔭 I’m currently working on [GitHub](https://github.com/Iskender-Garajayev)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Iskender-Garajayev](https://github.com/Iskender-Garajayev)
 
 - 📫 How to reach me **garajayev@gmail.com**

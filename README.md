@@ -31,7 +31,7 @@
 ## My projects
   Project Name       |Libraries and Technologies      |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Redux Django Blog App](https://resposiv-app.vercel.app/)| Html, Css (Responsive Website) |![blog app]([https://github.com/bengin34/bengin34/assets/118957608/6b9a6dfb-652b-4064-a630-639e7bcceb3a](https://github.com/Iskender-Garajayev/resposiv-app/blob/main/img/Document.gif))
+[Redux Django Blog App](https://resposiv-app.vercel.app/)| Html, Css (Responsive Website) |![blog app](https://github.com/Iskender-Garajayev/resposiv-app/blob/main/img/resposiv-app.vercel.app.gif)
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iskender-garajayev&show_icons=true&locale=en&layout=compact" alt="iskender-garajayev" /></p> 
